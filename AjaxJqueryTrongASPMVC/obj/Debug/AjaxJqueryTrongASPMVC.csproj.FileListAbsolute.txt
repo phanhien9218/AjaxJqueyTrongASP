@@ -1,0 +1,161 @@
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\csc.exe
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\vbc.exe
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\AjaxJqueryTrongASPMVC.dll.config
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\AjaxJqueryTrongASPMVC.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\AjaxJqueryTrongASPMVC.pdb
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Antlr3.Runtime.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\EntityFramework.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\EntityFramework.SqlServer.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Newtonsoft.Json.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Owin.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.Helpers.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.Mvc.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.Optimization.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.Razor.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\WebGrease.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.Helpers.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.Mvc.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.Optimization.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.Razor.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Antlr3.Runtime.pdb
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Newtonsoft.Json.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\EntityFramework.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\EntityFramework.SqlServer.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\obj\Debug\AjaxJqueryTrongASPMVC.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\obj\Debug\AjaxJqueryTrongASPMVC.dll
+c:\users\home\documents\visual studio 2015\Projects\AjaxJqueryTrongASPMVC\AjaxJqueryTrongASPMVC\obj\Debug\AjaxJqueryTrongASPMVC.pdb
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\csc.exe
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\vbc.exe
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\VBCSCompiler.exe
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\ApplicationInsights.config
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\AjaxJqueryTrongASPMVC.dll.config
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\AjaxJqueryTrongASPMVC.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\AjaxJqueryTrongASPMVC.pdb
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Antlr3.Runtime.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\EntityFramework.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\EntityFramework.SqlServer.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.Web.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.WindowsServer.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.ApplicationInsights.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Google.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Newtonsoft.Json.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Owin.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.Helpers.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.Mvc.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.Optimization.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.Razor.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.Deployment.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.Razor.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\WebGrease.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.Web.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AI.WindowsServer.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.ApplicationInsights.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.Helpers.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.Mvc.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.Optimization.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.Razor.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.Deployment.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\System.Web.WebPages.Razor.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Antlr3.Runtime.pdb
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Newtonsoft.Json.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\EntityFramework.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\EntityFramework.SqlServer.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Google.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\obj\Debug\AjaxJqueryTrongASPMVC.csprojResolveAssemblyReference.cache
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\obj\Debug\AjaxJqueryTrongASPMVC.dll
+D:\AjaxJqueyTrongASP\AjaxJqueryTrongASPMVC\obj\Debug\AjaxJqueryTrongASPMVC.pdb
