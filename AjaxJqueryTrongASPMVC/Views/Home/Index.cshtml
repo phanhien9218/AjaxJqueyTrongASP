@@ -2,8 +2,10 @@
     ViewBag.Title = "Home Page";
 }
 @section scripts{
-    <script src="~/Scripts/Plugins/mustache.min.js"></script>
-    <script src="~/Scripts/Controller/homeController.js"></script>
+
+<script src="~/Scripts/Plugins/mustache.min.js"></script>
+<script src="~/Scripts/Plugins/jquery.twbsPagination.min.js"></script>
+<script src="~/Scripts/Controller/homeController.js"></script>
 }
 <div class="row">
     <table class="table">
@@ -17,6 +19,8 @@
         </thead>
         <tbody id="tblData"></tbody>
     </table>
+    <div id="pagination" class="pagination">
+    </div>
     <script id="data-template" type="x-tmpl-mustache">
         <tr>
             <td>{{ID}}</td>
